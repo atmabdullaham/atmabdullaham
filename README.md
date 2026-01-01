@@ -64,3 +64,6 @@ Currently exploring new technologies and improving my development skills through
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?atmabdullaham&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=22C55E&point=F59E0B" width="95%" alt="GitHub activity graph" />
 </p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/atmabdullaham&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=22C55E&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=E5E7EB&currStreakNum=38BDF8&sideLabels=F472B6" alt="GitHub streak" />
+</p>
