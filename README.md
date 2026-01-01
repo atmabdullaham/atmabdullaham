@@ -60,3 +60,7 @@ Currently exploring new technologies and improving my development skills through
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmabdullaham&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atmabdullaham&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=atmabdullaham&theme=radical)
+<!-- Activity Graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?atmabdullaham&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=22C55E&point=F59E0B" width="95%" alt="GitHub activity graph" />
+</p>
