@@ -51,25 +51,25 @@ Currently exploring new technologies and improving my development skills through
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atmabdullaham&theme=github)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atmabdullaham&theme=github)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
-
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmabdullaham&theme=github_dark&utcOffset=6" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmabdullaham&theme=github" />
     </td>
   </tr>
 </table>
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmabdullaham&theme=github_dark&utcOffset=6)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=atmabdullaham" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atmabdullaham&theme=github" />
+    </td>
+  </tr>
+</table>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
