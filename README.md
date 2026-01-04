@@ -49,8 +49,16 @@ Currently exploring new technologies and improving my development skills through
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmabdullaham&show_icons=true&theme=transparent&hide=stars,issues&rank_icon=github)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atmabdullaham&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
+
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=node.js&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
