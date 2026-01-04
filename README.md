@@ -56,3 +56,18 @@ Currently exploring new technologies and improving my development skills through
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atmabdullaham&theme=github)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmabdullaham&theme=github_dark&utcOffset=6" />
+    </td>
+  </tr>
+</table>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=github-dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
