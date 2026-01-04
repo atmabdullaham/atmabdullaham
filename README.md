@@ -49,8 +49,8 @@ Currently exploring new technologies and improving my development skills through
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmabdullaham&show_icons=true&theme=radical&cache_seconds=3600)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atmabdullaham&layout=compact&theme=radical&cache_seconds=3600)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atmabdullaham&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=radical)
