@@ -47,16 +47,10 @@ Currently exploring new technologies and improving my development skills through
 
 - LinkedIn: [linkedin.com/in/atm-abdullah](https://www.linkedin.com/in/atm-abdullah)
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atmabdullaham&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmabdullaham&show_icons=true&theme=radical&cache_seconds=3600)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmabdullaham&layout=compact&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atmabdullaham&layout=compact&theme=radical&cache_seconds=3600)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atmabdullaham&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=radical)
