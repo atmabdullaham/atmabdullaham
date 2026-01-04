@@ -68,6 +68,8 @@ Currently exploring new technologies and improving my development skills through
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atmabdullaham&theme=github-dark&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmabdullaham&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmabdullaham&theme=github_dark&utcOffset=6)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmabdullaham&theme=github-compact)
