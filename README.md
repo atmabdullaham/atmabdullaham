@@ -72,7 +72,7 @@ Currently exploring new technologies and improving my development skills through
   <tr>
     <td>
       <img
-        src="https://streak-stats.demolab.com?user=atmabdullaham&theme=github&hide_border=true&date=NOW"
+        src="https://streak-stats.demolab.com?user=atmabdullaham&theme=github&hide_border=true"
         width="420"
         alt="GitHub Streak"
       />
